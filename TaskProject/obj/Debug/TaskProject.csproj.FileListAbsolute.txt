@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\TaskProject\TaskProject\bin\Debug\TaskProject.exe.config
+C:\Users\DELL\source\repos\TaskProject\TaskProject\bin\Debug\TaskProject.exe
+C:\Users\DELL\source\repos\TaskProject\TaskProject\bin\Debug\TaskProject.pdb
+C:\Users\DELL\source\repos\TaskProject\TaskProject\obj\Debug\TaskProject.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\TaskProject\TaskProject\obj\Debug\TaskProject.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\TaskProject\TaskProject\obj\Debug\TaskProject.exe
+C:\Users\DELL\source\repos\TaskProject\TaskProject\obj\Debug\TaskProject.pdb
+C:\Users\DELL\source\repos\TaskProject\TaskProject\obj\Debug\TaskProject.exe.config
